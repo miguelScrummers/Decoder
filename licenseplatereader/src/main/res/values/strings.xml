@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LicensePlateReader</string>
+    <string name="PLATE_RECOGNIZER_URL">https://api.platerecognizer.com/v1/plate-reader</string>
+    <string name="PLATE_RECOGNIZER_TOKEN">248e3047f37fa780306c16ec0d2a1d261ba5571f</string>
 </resources>
